@@ -1,2 +1,3 @@
 # GT-Stellar-Horizons
-modpack featuring Gregtech
+
+GT:I is obsolete
